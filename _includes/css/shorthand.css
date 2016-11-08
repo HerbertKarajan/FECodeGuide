@@ -1,0 +1,12 @@
+/* not good */
+.element {
+    transition: opacity 1s linear 2s;
+}
+
+/* good */
+.element {
+    transition-delay: 2s;
+    transition-timing-function: linear;
+    transition-duration: 1s;
+    transition-property: opacity;
+}

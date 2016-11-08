@@ -1,0 +1,18 @@
+/* Modal header */
+.modal-header {
+    ...
+}
+
+/*
+ * Modal header
+ */
+.modal-header {
+    ...
+}
+
+.modal-header {
+    /* 50px */
+    width: 50px;
+
+    color: red; /* color red */
+}
