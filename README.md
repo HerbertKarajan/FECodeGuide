@@ -16,11 +16,11 @@ JsFormat（它其实用的是jsbeautifier），CSScomb两个格式化的插件�
 
 配置好后，保存的时候可以看到不合规范的代码行前面有明显的提示：
 
-![](https://github.com/HerbertKarajan/FECodeGuide/images/demo_1.png)
+![](https://github.com/HerbertKarajan/FECodeGuide/blob/master/images/demo_1.png)
 
 将光标移到该行，可以在状态栏中看到详细的错误信息：
 
-![](https://github.com/HerbertKarajan/FECodeGuide/images/demo_2.png)
+![](https://github.com/HerbertKarajan/FECodeGuide/blob/master/images/demo_2.png)
 
 建议在修改这些错误之前，js文件用JsFormat格式化一下（ctrl+alt+f），css文件用CSScomb格式化一下（ctrl+shift+c），可以减少很多工作量。
 
